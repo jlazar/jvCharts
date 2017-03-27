@@ -39,6 +39,12 @@
     color: #000000;
 }
 
+.d3-tooltip-circle {
+    width: 10px;
+    height: 10px;
+    border: 1px solid black;
+}
+
 /* Creates a small triangle extender for the tooltip */
 .semoss-d3-tip:after {
     display: none;
